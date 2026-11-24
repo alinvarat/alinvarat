@@ -1,6 +1,6 @@
 # Linwrath_Pulse
 
-Maker behind **PULSE** — robots, electronics and 3D-printed parts.
+Founder of **PULSE** — I design the line-follower robot boards, sensors and kits, and build them myself.
 
 ## What I work on
 - **PULSE** — Arduino line-follower robot libraries (PulseMini, 16MuxV3) with Thai manuals, plus the PULSE shop for robots and 3D printing
