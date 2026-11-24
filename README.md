@@ -1,18 +1,12 @@
-# test1
+# Linwrath_Pulse
 
-A new Flutter project.
+Maker behind **PULSE** — robots, electronics and 3D-printed parts.
 
-## Getting Started
+## What I work on
+- **PULSE** — Arduino line-follower robot libraries (PulseMini, 16MuxV3) with Thai manuals, plus the PULSE shop for robots and 3D printing
+- **LineSim** — a line-follower simulator and tuning tool, deployed on Netlify
+- **Hardware** — KiCad/EasyEDA PCB design, FreeCAD parts, ESP-based control boards
+- **[TradeLab](https://github.com/alinvarat/tradelab)** — paper-trading simulator and market-timing research (simulated money only)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# alinvarat
-# alinvarat
+## Stack
+Arduino/C++ · Python · KiCad · FreeCAD · Flutter/Dart · Cloudflare · Netlify
